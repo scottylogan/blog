@@ -1,0 +1,6 @@
+[submodule "wp-content/plugins/indieAuth-links"]
+	path = wp-content/plugins/indieAuth-links
+	url = https://github.com/jihaisse/indieAuth-links.git
+[submodule "wp-content/plugins/wp-aws-plugin-fixes"]
+	path = wp-content/plugins/wp-aws-plugin-fixes
+	url = https://github.com/scottylogan/wp-aws-plugin-fixes.git
